@@ -2,7 +2,7 @@
 
 A absolutely tiny (~500B[^1]) extension of `bard-ai` that makes Bard do what you want it to do.
 
-Thanks to @ThatXliner for helping with the original prompt engineering.
+Thanks to [@ThatXliner](https://www.github.com/thatxliner) for helping with the original prompt engineering.
 
 [^1]: 508B minified and gzipped
 
