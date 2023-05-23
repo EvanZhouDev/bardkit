@@ -5,7 +5,7 @@ export const init = async (sessionID) => await Bard.init(sessionID);
 export const extractText = async (prompt) => {
     prompt += `
         \n\n
-        Return your response as a JSON with key 'response'. The value associated should be a single string with your answer. ONLY return that JSON and nothing else. Be accurate and concise.
+        Return your response as a JSON with key 'response'. The value associated should be a single STRING with your answer. There should be no arrays or child objects of any kind in the JSON. ONLY return that JSON and nothing else. Be accurate and concise.
     `;
 
     let response = await askAI(prompt)

@@ -66,6 +66,9 @@ npm install bardkit
 
 Next, get your Google \_\_Secure-1PSID cookie key... refer [here](https://github.com/EvanZhouDev/bard-ai#obtaining-authentication) for details.
 
+## Contributing
+Obviously, these prompts are not perfect. If you find a bug, feel free to leave an issue and/or submit a pull request to help me improve!
+
 ## API Referance
 
 ## Init
