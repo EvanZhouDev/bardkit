@@ -1,6 +1,6 @@
 {
   "name": "bardkit",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Get Google's Bard to do what you want it to do!",
   "main": "index.js",
   "scripts": {
